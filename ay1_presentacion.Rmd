@@ -338,11 +338,10 @@ Guarda el archivo `casen_ay1.csv` en tu carpeta `input` y luego:
 ```{r cargar}
 
 # Instalar paquete (SOLO UNA VEZ)
-#install.packages("tidyverse")
+install.packages("readr")
 
 # Cargar paquete (SIEMPRE)
-library(tidyverse)
-
+library(readr)
 
 # Cargar la base
 
