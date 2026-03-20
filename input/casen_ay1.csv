@@ -1,0 +1,1001 @@
+region,sexo,edad,educc,activ,yoprcor,ypchtotcor,pueblos_indigenas,lugar_nac,pobreza
+5,Mujer,17,Media incompleta,Inactivo/a,NA,652352,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,76,Básica incompleta,Inactivo/a,NA,232541,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Hombre,20,Media completa,Desocupado/a,NA,321076,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,10,Básica incompleta,NA,NA,120713,No pertenece,Nacido/a en Chile,Pobreza severa
+9,Mujer,38,Media completa,Inactivo/a,NA,198122,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,10,Básica incompleta,NA,NA,399678,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,44,Media completa,Desocupado/a,NA,204926,No pertenece,Nacido/a en Chile,NA
+14,Mujer,43,Media completa,Inactivo/a,NA,312500,Pertenece,Nacido/a en Chile,No pobre
+4,Mujer,44,Sin educación formal,Inactivo/a,NA,300180,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,49,Superior incompleta,Ocupado/a,2600000,2110417,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,6,Básica incompleta,NA,NA,192098,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Hombre,49,Media completa,Ocupado/a,400000,559948,Pertenece,Nacido/a en Chile,NA
+1,Mujer,76,Básica incompleta,Inactivo/a,NA,564503,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+2,Hombre,23,Superior incompleta,Inactivo/a,NA,373662,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Mujer,78,Media incompleta,Inactivo/a,NA,600000,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,66,Básica completa,Ocupado/a,500000,668840,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,3,Sin educación formal,NA,NA,475119,Pertenece,Nacido/a en Chile,No pobre
+7,Mujer,73,Básica incompleta,Inactivo/a,NA,322166,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,61,Media incompleta,Ocupado/a,150000,317500,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,39,Básica incompleta,Ocupado/a,500000,201596,Pertenece,Nacido/a en Chile,Pobreza severa
+7,Hombre,62,Superior completa,Desocupado/a,NA,381991,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,20,Superior incompleta,Inactivo/a,NA,739933,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,87,Básica incompleta,Inactivo/a,NA,1051778,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,44,Básica incompleta,Inactivo/a,NA,138147,No pertenece,Nacido/a en Chile,Pobreza severa
+4,Hombre,7,Básica incompleta,NA,NA,180560,No pertenece,Nacido/a en Chile,Pobreza severa
+15,Mujer,49,Media completa,Ocupado/a,441000,616000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,35,Superior completa,Ocupado/a,6500000,6395834,No pertenece,Nacido/a fuera de Chile,No pobre
+3,Mujer,61,Media incompleta,Ocupado/a,125000,289447,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+14,Mujer,56,Básica incompleta,Inactivo/a,NA,231815,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,24,Media incompleta,Inactivo/a,NA,168000,No pertenece,Nacido/a fuera de Chile,Pobreza severa
+2,Mujer,17,Media completa,Inactivo/a,NA,226529,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+9,Mujer,78,Básica completa,Inactivo/a,NA,233107,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+2,Hombre,85,Media incompleta,Inactivo/a,NA,829651,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,29,Media completa,Inactivo/a,NA,270509,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,10,Básica incompleta,NA,NA,131814,No pertenece,Nacido/a en Chile,Pobreza severa
+4,Hombre,79,Básica completa,Inactivo/a,NA,587500,No pertenece,Nacido/a en Chile,No pobre
+15,Mujer,23,Superior completa,Inactivo/a,NA,219110,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Hombre,31,Superior incompleta,Ocupado/a,900000,595001,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,19,Superior incompleta,Inactivo/a,NA,218321,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,77,Media incompleta,Inactivo/a,NA,732378,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,53,Superior incompleta,Inactivo/a,NA,434494,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,5,Sin educación formal,NA,NA,269687,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,7,Básica incompleta,NA,NA,259375,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,51,Básica completa,Ocupado/a,100000,229329,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Mujer,63,Media incompleta,Inactivo/a,NA,216938,No pertenece,Nacido/a en Chile,Pobreza severa
+1,Hombre,45,Básica completa,Ocupado/a,700000,271917,No pertenece,Nacido/a fuera de Chile,No pobre
+3,Hombre,35,Superior completa,Ocupado/a,2000000,725000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,73,Básica incompleta,Inactivo/a,NA,448529,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,53,Media completa,Inactivo/a,NA,402778,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,47,Media completa,Ocupado/a,500000,463343,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,12,Básica incompleta,NA,NA,309394,No pertenece,Nacido/a en Chile,NA
+1,Mujer,47,Superior completa,Ocupado/a,437000,276495,No pertenece,Nacido/a en Chile,Pobreza severa
+14,Hombre,35,Superior completa,Desocupado/a,NA,385162,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,26,Básica completa,Ocupado/a,480000,449228,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Mujer,57,Superior completa,Ocupado/a,9000000,5574444,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,20,Superior incompleta,Inactivo/a,NA,300000,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,22,Media incompleta,Desocupado/a,NA,205000,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+11,Hombre,14,Básica incompleta,NA,NA,211297,Pertenece,Nacido/a en Chile,Pobreza severa
+5,Mujer,33,Superior completa,Ocupado/a,1500000,1556667,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,23,Superior completa,Ocupado/a,500000,804584,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,67,Superior completa,Inactivo/a,NA,1100000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,67,Media completa,Inactivo/a,NA,316852,No pertenece,Nacido/a en Chile,No pobre
+15,Mujer,26,Superior completa,Ocupado/a,700000,813314,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,66,Media completa,Inactivo/a,NA,732148,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,19,Media completa,Desocupado/a,NA,256667,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+1,Mujer,10,Básica incompleta,NA,NA,260000,Pertenece,Nacido/a en Chile,No pobre
+15,Hombre,13,Básica incompleta,NA,NA,482222,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,33,Sin educación formal,Inactivo/a,NA,568142,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,30,Superior incompleta,Ocupado/a,800000,750000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,18,Media completa,Inactivo/a,NA,281662,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,17,Media incompleta,Inactivo/a,NA,310000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,41,Superior completa,Ocupado/a,1500000,1062417,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,46,Media completa,Ocupado/a,70000,278377,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Mujer,14,Media incompleta,NA,NA,494931,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+10,Hombre,24,Media completa,Desocupado/a,NA,592662,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,85,Básica incompleta,Inactivo/a,NA,392370,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,55,Media incompleta,Ocupado/a,600000,354765,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,64,Superior completa,Inactivo/a,NA,895009,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+9,Mujer,10,Básica incompleta,NA,NA,560786,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,41,Superior completa,Ocupado/a,1200000,1626945,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,57,Básica completa,Ocupado/a,250000,233333,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,38,Superior completa,Ocupado/a,650000,1332778,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,63,Media incompleta,Inactivo/a,NA,1014667,No pertenece,Nacido/a en Chile,No pobre
+11,Hombre,12,Básica incompleta,NA,NA,458333,Pertenece,Nacido/a en Chile,No pobre
+16,Hombre,53,Media completa,Ocupado/a,300000,600000,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,51,Media completa,Inactivo/a,NA,438208,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,39,Media completa,Desocupado/a,NA,266971,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,47,Media completa,Ocupado/a,550000,250000,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,31,Básica completa,Inactivo/a,NA,418750,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Hombre,53,Media completa,Ocupado/a,700000,533333,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,61,Media completa,Ocupado/a,700000,600000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,51,Superior incompleta,Ocupado/a,250000,568333,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,36,Básica completa,Ocupado/a,200000,320000,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Mujer,23,Superior completa,Ocupado/a,500000,460000,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,58,Básica completa,Desocupado/a,NA,358991,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Mujer,82,Media incompleta,Inactivo/a,NA,243009,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,64,Media completa,Inactivo/a,NA,330826,Pertenece,Nacido/a en Chile,No pobre
+3,Hombre,72,Media incompleta,Inactivo/a,NA,2436987,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,13,Básica incompleta,NA,NA,282853,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Mujer,81,Media incompleta,Inactivo/a,NA,333333,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,71,Básica completa,Inactivo/a,NA,526417,No pertenece,Nacido/a en Chile,NA
+1,Mujer,26,Media completa,Inactivo/a,NA,266667,No pertenece,Nacido/a fuera de Chile,No pobre
+6,Hombre,73,Superior incompleta,Ocupado/a,2000000,2740000,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,50,Superior completa,Inactivo/a,NA,1250000,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,54,Básica incompleta,Ocupado/a,750000,506834,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,45,Superior completa,Ocupado/a,1400000,717778,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,41,Superior completa,Ocupado/a,690000,278468,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,84,Sin educación formal,Inactivo/a,NA,374356,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Hombre,43,Media completa,Ocupado/a,700000,216847,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,10,Básica incompleta,NA,NA,426417,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,53,Superior completa,Ocupado/a,250000,394774,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+1,Mujer,6,Sin educación formal,NA,NA,305295,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,59,Media completa,Ocupado/a,850000,1150000,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,60,Superior completa,Ocupado/a,60000,633889,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,45,Media completa,Ocupado/a,1000000,405750,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,42,Media completa,Inactivo/a,NA,350000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,21,Superior incompleta,Desocupado/a,NA,296731,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,57,Media completa,Ocupado/a,240000,590000,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,63,Media completa,Ocupado/a,500000,562166,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,63,Media completa,Ocupado/a,500000,514000,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,23,Superior incompleta,Inactivo/a,NA,1918750,No pertenece,Nacido/a en Chile,No pobre
+15,Mujer,33,Superior completa,Ocupado/a,300000,591803,No pertenece,Nacido/a fuera de Chile,No pobre
+13,Mujer,40,Superior completa,Inactivo/a,NA,1270833,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,33,Media completa,Ocupado/a,NA,152724,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+9,Mujer,57,Básica incompleta,Inactivo/a,NA,138812,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Hombre,59,Básica incompleta,Ocupado/a,500000,424019,No pertenece,Nacido/a en Chile,NA
+11,Hombre,70,Media completa,Inactivo/a,NA,575000,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,29,Media completa,Ocupado/a,450000,290500,No pertenece,Nacido/a fuera de Chile,No pobre
+9,Hombre,5,Sin educación formal,NA,NA,182886,Pertenece,Nacido/a en Chile,Pobreza severa
+7,Hombre,50,Superior completa,Ocupado/a,500000,700000,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,53,Media completa,Inactivo/a,NA,522588,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,22,Media incompleta,Ocupado/a,635000,350000,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+5,Mujer,58,Superior completa,Inactivo/a,NA,475000,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,42,Superior completa,Ocupado/a,650000,454941,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,35,Superior completa,Inactivo/a,NA,425000,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,54,Básica completa,Ocupado/a,215000,365612,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,1,Sin educación formal,NA,NA,317750,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,47,Superior incompleta,Ocupado/a,100000,322333,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,49,Media completa,Ocupado/a,450000,233101,No pertenece,Nacido/a en Chile,Pobreza severa
+3,Hombre,39,Media completa,Desocupado/a,NA,197364,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+15,Hombre,7,Básica incompleta,NA,NA,326667,Pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+1,Mujer,29,Superior completa,Ocupado/a,700000,666667,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,86,Básica incompleta,Inactivo/a,NA,662699,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,10,Básica incompleta,NA,NA,438651,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,75,Básica incompleta,Inactivo/a,NA,420443,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,43,Superior completa,Inactivo/a,NA,465000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,25,Superior completa,Ocupado/a,600000,553433,No pertenece,Nacido/a fuera de Chile,No pobre
+7,Mujer,53,Superior completa,Ocupado/a,1500000,1060625,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,2,Sin educación formal,NA,NA,194849,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+10,Hombre,0,Sin educación formal,NA,NA,188444,Pertenece,Nacido/a en Chile,No pobre
+6,Mujer,47,Básica incompleta,Inactivo/a,NA,551073,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+7,Mujer,75,Media incompleta,Inactivo/a,NA,532786,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Hombre,45,Media completa,Ocupado/a,200000,379939,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,76,Media completa,Inactivo/a,NA,872432,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,29,Superior completa,Ocupado/a,700000,331402,No pertenece,Nacido/a fuera de Chile,No pobre
+9,Mujer,70,Básica incompleta,Inactivo/a,NA,289296,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+4,Mujer,15,Media incompleta,Inactivo/a,NA,171327,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Hombre,31,Media completa,Ocupado/a,600000,300000,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,39,Superior completa,Ocupado/a,1100000,270000,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,32,Superior completa,Ocupado/a,400000,468912,Pertenece,Nacido/a en Chile,No pobre
+10,Mujer,90,Básica incompleta,Inactivo/a,NA,665977,Pertenece,Nacido/a en Chile,No pobre
+6,Hombre,76,Básica incompleta,Inactivo/a,NA,349250,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,66,Media completa,Inactivo/a,NA,972083,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,28,Superior incompleta,Ocupado/a,900000,1200000,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,6,Sin educación formal,NA,NA,194736,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,12,Básica incompleta,NA,NA,1236250,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,29,Superior completa,Ocupado/a,500000,1050000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,17,Media incompleta,Inactivo/a,NA,264050,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+2,Hombre,49,Superior incompleta,Ocupado/a,900000,341619,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,65,Básica incompleta,Ocupado/a,430000,331998,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+5,Mujer,31,Media completa,Inactivo/a,NA,196667,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Mujer,11,Básica incompleta,NA,NA,356326,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,32,Media completa,Inactivo/a,NA,268074,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,33,Superior completa,Ocupado/a,750000,585250,Pertenece,Nacido/a en Chile,No pobre
+7,Mujer,78,Sin educación formal,Inactivo/a,NA,746499,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,51,Básica incompleta,Inactivo/a,NA,396000,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,18,Media completa,Inactivo/a,NA,394500,No pertenece,Nacido/a fuera de Chile,No pobre
+13,Hombre,81,Media incompleta,Inactivo/a,NA,535398,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,30,Superior completa,Inactivo/a,NA,399375,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,52,Básica completa,Ocupado/a,600000,402389,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,30,Superior completa,Ocupado/a,900000,1168333,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,17,Media incompleta,Inactivo/a,NA,635833,No pertenece,Nacido/a en Chile,NA
+9,Hombre,52,Básica incompleta,Ocupado/a,400000,554167,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+2,Hombre,38,Superior completa,Ocupado/a,400000,800000,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,33,Superior incompleta,Ocupado/a,300000,188432,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Hombre,33,Superior completa,Ocupado/a,10000000,2737500,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,23,Superior incompleta,Inactivo/a,NA,235710,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,14,Básica completa,NA,NA,1112500,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,14,Básica completa,NA,NA,226510,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+13,Hombre,3,Sin educación formal,NA,NA,285692,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,13,Básica completa,NA,NA,581389,No pertenece,Nacido/a en Chile,No pobre
+15,Mujer,70,Media incompleta,Inactivo/a,NA,190398,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Mujer,54,Media completa,Inactivo/a,NA,366667,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,33,Superior completa,Ocupado/a,2000000,2612166,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,22,Superior incompleta,Inactivo/a,NA,362765,No pertenece,Nacido/a en Chile,NA
+13,Hombre,5,Sin educación formal,NA,NA,533333,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,16,Media incompleta,Inactivo/a,NA,226510,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+4,Hombre,70,Básica incompleta,Inactivo/a,NA,412148,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,24,Media completa,Inactivo/a,NA,216036,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,48,Superior completa,Inactivo/a,NA,351667,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,0,Sin educación formal,NA,NA,1111111,Pertenece,Nacido/a en Chile,No pobre
+8,Mujer,18,Media completa,Inactivo/a,NA,280883,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Hombre,53,Básica incompleta,Ocupado/a,600000,248894,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,50,Básica incompleta,Ocupado/a,500000,612000,No pertenece,Nacido/a fuera de Chile,No pobre
+15,Mujer,55,Media completa,Inactivo/a,NA,300000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Hombre,62,Media incompleta,Ocupado/a,560000,632246,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Mujer,47,Media completa,Ocupado/a,300000,635417,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,54,Superior completa,Ocupado/a,600000,312500,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,36,Superior incompleta,Ocupado/a,1500000,865751,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,39,Media completa,Ocupado/a,800000,205684,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,62,Superior completa,Ocupado/a,NA,1862500,No pertenece,Nacido/a fuera de Chile,No pobre
+15,Mujer,57,Media completa,Ocupado/a,1200000,1089917,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,68,Superior incompleta,Inactivo/a,NA,882148,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,14,Básica completa,NA,NA,207243,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Hombre,52,Básica incompleta,Ocupado/a,NA,200000,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Hombre,53,Superior completa,Ocupado/a,1200000,425625,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,80,Básica incompleta,Inactivo/a,NA,555750,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,55,Básica incompleta,Ocupado/a,700000,427083,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Hombre,23,Superior incompleta,Desocupado/a,NA,313081,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,17,Media incompleta,Inactivo/a,NA,585474,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+10,Mujer,7,Básica incompleta,NA,NA,900000,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,26,Superior completa,Ocupado/a,200000,1334167,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,35,Básica incompleta,Ocupado/a,650000,362500,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+8,Mujer,58,Media completa,Ocupado/a,200000,200000,Pertenece,Nacido/a en Chile,Pobreza severa
+12,Mujer,4,Sin educación formal,NA,NA,310622,Pertenece,Nacido/a en Chile,No pobre
+14,Hombre,78,Básica incompleta,Ocupado/a,NA,532121,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,14,Básica completa,NA,NA,725000,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,33,Básica completa,Ocupado/a,520000,238000,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+4,Hombre,8,Básica incompleta,NA,NA,276257,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,66,Media completa,Inactivo/a,NA,476294,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,11,Básica incompleta,NA,NA,372991,Pertenece,Nacido/a en Chile,No pobre
+9,Mujer,15,Media incompleta,Inactivo/a,NA,236526,Pertenece,Nacido/a en Chile,No pobre
+7,Hombre,83,Básica incompleta,Inactivo/a,NA,425648,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Hombre,48,Básica incompleta,Ocupado/a,500000,861238,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,3,Sin educación formal,NA,NA,1454912,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,53,Superior incompleta,Inactivo/a,NA,292588,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+1,Mujer,18,Superior incompleta,Desocupado/a,NA,553754,Pertenece,Nacido/a en Chile,NA
+10,Hombre,5,Sin educación formal,NA,NA,360056,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,55,Básica completa,Ocupado/a,1500000,825917,Pertenece,Nacido/a en Chile,No pobre
+11,Hombre,27,Media completa,Ocupado/a,150000,542944,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,62,Básica completa,Ocupado/a,200000,302956,Pertenece,Nacido/a en Chile,No pobre
+5,Mujer,19,Media completa,Inactivo/a,NA,168917,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+2,Mujer,50,Superior completa,Desocupado/a,NA,421141,Pertenece,Nacido/a en Chile,No pobre
+12,Hombre,20,Sin educación formal,Inactivo/a,NA,306426,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,33,Media completa,Ocupado/a,500000,188762,No pertenece,Nacido/a fuera de Chile,Pobreza severa
+5,Hombre,30,Sin educación formal,Inactivo/a,NA,342420,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+2,Hombre,7,Básica incompleta,NA,NA,300696,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,15,Media incompleta,Inactivo/a,NA,161173,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,75,Media incompleta,Inactivo/a,NA,472295,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,48,Superior incompleta,Inactivo/a,NA,139125,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,72,Superior completa,Ocupado/a,2000000,1083333,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,57,Básica incompleta,Inactivo/a,NA,571287,Pertenece,Nacido/a en Chile,No pobre
+1,Mujer,16,Media incompleta,Inactivo/a,NA,450167,Pertenece,Nacido/a en Chile,No pobre
+15,Hombre,73,Media incompleta,Inactivo/a,NA,254200,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,33,Superior completa,Ocupado/a,2350000,1969375,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,18,Media completa,Inactivo/a,NA,210000,No pertenece,Nacido/a en Chile,Pobreza severa
+7,Mujer,62,Media completa,Inactivo/a,NA,191667,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,9,Básica incompleta,NA,NA,163327,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+11,Mujer,90,Básica incompleta,Inactivo/a,NA,680000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,13,Básica incompleta,NA,NA,125000,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+2,Hombre,11,Básica incompleta,NA,NA,668695,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,7,Básica incompleta,NA,NA,429079,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,64,Superior completa,Ocupado/a,760000,705000,No pertenece,Nacido/a fuera de Chile,NA
+9,Hombre,51,Media completa,Ocupado/a,590000,280514,Pertenece,Nacido/a en Chile,No pobre
+5,Hombre,16,Media incompleta,Inactivo/a,NA,78356,No pertenece,Nacido/a en Chile,Pobreza severa
+6,Hombre,57,Media completa,Ocupado/a,100000,484167,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,38,Media completa,Ocupado/a,810000,311396,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,3,Sin educación formal,NA,NA,187935,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+16,Mujer,70,Media completa,Inactivo/a,NA,531933,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,2,Sin educación formal,NA,NA,237500,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,21,Media incompleta,Inactivo/a,NA,150293,Pertenece,Nacido/a en Chile,Pobreza severa
+5,Hombre,34,Media completa,Ocupado/a,800000,318224,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,27,Media completa,Inactivo/a,NA,135622,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Mujer,35,Superior completa,Ocupado/a,1000000,675000,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,23,Superior incompleta,Inactivo/a,NA,373125,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,63,Básica incompleta,Inactivo/a,NA,415711,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,31,Media completa,Ocupado/a,600000,646667,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,32,Superior incompleta,Ocupado/a,480000,787500,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,29,Superior completa,Ocupado/a,5000000,2350000,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,31,Media completa,Ocupado/a,800000,254375,Pertenece,Nacido/a en Chile,No pobre
+4,Mujer,86,Básica incompleta,Inactivo/a,NA,568372,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,36,Superior completa,Ocupado/a,195000,481667,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,58,Superior completa,Ocupado/a,500000,375000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,23,Sin educación formal,Inactivo/a,NA,438099,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,33,Media completa,Ocupado/a,200000,196178,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+9,Hombre,54,Superior completa,Ocupado/a,3000000,1209000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,58,Superior completa,Ocupado/a,3500000,1463555,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,15,Media incompleta,Inactivo/a,NA,858333,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,60,Superior completa,Ocupado/a,500000,409687,No pertenece,Nacido/a en Chile,NA
+8,Mujer,7,Básica incompleta,NA,NA,472843,Pertenece,Nacido/a en Chile,No pobre
+5,Hombre,38,Media completa,Ocupado/a,600000,407081,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,1,Sin educación formal,NA,NA,380000,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,61,Básica incompleta,Inactivo/a,NA,471000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,35,Superior completa,Ocupado/a,1100000,1415000,No pertenece,Nacido/a fuera de Chile,No pobre
+15,Hombre,58,Media completa,Inactivo/a,NA,992222,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,57,Básica completa,Desocupado/a,NA,492374,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,9,Básica incompleta,NA,NA,770000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,10,Básica incompleta,NA,NA,316720,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Hombre,23,Media completa,Ocupado/a,150000,359531,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,3,Sin educación formal,NA,NA,162780,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+16,Hombre,63,Sin educación formal,Ocupado/a,300000,211292,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+14,Hombre,6,Básica incompleta,NA,NA,92156,No pertenece,Nacido/a en Chile,Pobreza severa
+9,Mujer,48,Superior incompleta,Inactivo/a,NA,290414,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,51,Media completa,Ocupado/a,300000,613658,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,25,Superior completa,Ocupado/a,500000,325543,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,14,Básica completa,NA,NA,11750,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+12,Mujer,35,Superior completa,Inactivo/a,NA,502708,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,25,Superior incompleta,Ocupado/a,800000,601042,No pertenece,Nacido/a fuera de Chile,No pobre
+12,Mujer,52,Media completa,Ocupado/a,600000,527500,Pertenece,Nacido/a en Chile,No pobre
+7,Hombre,78,Superior completa,Inactivo/a,NA,1100000,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,62,Media incompleta,Ocupado/a,1500000,1212361,Pertenece,Nacido/a en Chile,No pobre
+7,Mujer,7,Básica incompleta,NA,NA,336815,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,33,Media completa,Inactivo/a,NA,547527,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,24,Básica completa,Inactivo/a,NA,500762,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,52,Básica incompleta,Ocupado/a,500000,158769,Pertenece,Nacido/a en Chile,Pobreza severa
+6,Hombre,70,Básica incompleta,Inactivo/a,NA,808250,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,77,Básica completa,Inactivo/a,NA,345499,Pertenece,Nacido/a en Chile,No pobre
+6,Hombre,34,Básica completa,Inactivo/a,NA,123104,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Mujer,4,Sin educación formal,NA,NA,265801,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,23,Superior completa,Inactivo/a,NA,82134,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+11,Hombre,58,Superior completa,Inactivo/a,NA,433333,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,6,Sin educación formal,NA,NA,413533,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,37,Superior completa,Ocupado/a,900000,487500,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,61,Superior completa,Ocupado/a,580000,445000,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,10,Básica incompleta,NA,NA,316074,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,33,Superior completa,Ocupado/a,950000,1617917,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,74,Superior completa,Inactivo/a,NA,614296,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,49,Media completa,Ocupado/a,900000,530792,Pertenece,Nacido/a en Chile,No pobre
+10,Mujer,31,Media completa,Desocupado/a,NA,294224,Pertenece,Nacido/a en Chile,No pobre
+7,Hombre,58,Media completa,Desocupado/a,NA,270000,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Mujer,30,Superior incompleta,Inactivo/a,NA,552572,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,54,Media incompleta,Ocupado/a,500000,290083,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+9,Hombre,40,Superior completa,Ocupado/a,6000000,6450000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,52,Media incompleta,Ocupado/a,500000,407805,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,14,Media incompleta,NA,NA,302667,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,66,Básica incompleta,Inactivo/a,NA,491460,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+3,Mujer,25,Superior completa,Ocupado/a,1350000,1370600,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,9,Básica incompleta,NA,NA,207576,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Mujer,26,Media completa,Inactivo/a,NA,151333,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Mujer,51,Sin educación formal,Inactivo/a,NA,359021,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,56,Básica completa,Desocupado/a,NA,406331,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+12,Hombre,82,Sin educación formal,Ocupado/a,550000,964296,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,19,Media completa,Inactivo/a,NA,266247,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Hombre,35,Media completa,Ocupado/a,400000,700000,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,23,Superior incompleta,Ocupado/a,600000,353971,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,24,Superior incompleta,Ocupado/a,500000,366667,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,82,Media completa,Inactivo/a,NA,900000,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,51,Media completa,Ocupado/a,500000,320146,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,10,Básica incompleta,NA,NA,570000,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,1,Sin educación formal,NA,NA,571945,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,28,Superior incompleta,Inactivo/a,NA,537000,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,64,Superior completa,Inactivo/a,NA,247106,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Hombre,16,Media incompleta,Inactivo/a,NA,425456,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,24,Media completa,Ocupado/a,800000,389150,No pertenece,Nacido/a fuera de Chile,No pobre
+6,Mujer,49,Superior completa,Ocupado/a,900000,1066667,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,69,Media incompleta,Ocupado/a,140000,815000,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Mujer,22,Superior incompleta,Inactivo/a,NA,312500,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,46,Media completa,Ocupado/a,600000,634159,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,71,Básica incompleta,Inactivo/a,NA,566287,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+14,Hombre,40,Media completa,Ocupado/a,500000,444648,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,15,Media incompleta,Inactivo/a,NA,570417,Pertenece,Nacido/a en Chile,No pobre
+12,Mujer,24,Media completa,Ocupado/a,550000,670000,Pertenece,Nacido/a en Chile,No pobre
+16,Hombre,50,Básica completa,Ocupado/a,200000,210510,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+4,Hombre,68,Media incompleta,Inactivo/a,NA,542859,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,78,Básica incompleta,Inactivo/a,NA,344667,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,1,Sin educación formal,NA,NA,1119167,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,16,Media incompleta,Inactivo/a,NA,300992,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+1,Hombre,80,Media incompleta,Inactivo/a,NA,433898,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,55,Media completa,Ocupado/a,450000,686667,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,38,Media completa,Ocupado/a,700000,379118,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+7,Mujer,2,Sin educación formal,NA,NA,141161,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+4,Hombre,35,Superior completa,Ocupado/a,700000,514765,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,49,Media completa,Ocupado/a,300000,370972,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,10,Básica incompleta,NA,NA,137264,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+1,Mujer,29,Superior completa,Ocupado/a,150000,353156,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,6,Sin educación formal,NA,NA,604272,No pertenece,Nacido/a en Chile,NA
+6,Hombre,4,Sin educación formal,NA,NA,1345834,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,21,Media completa,Ocupado/a,500000,510669,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,39,Superior completa,Ocupado/a,750000,791696,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,24,Media completa,Ocupado/a,500000,635482,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,45,Media completa,Ocupado/a,700000,283007,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,3,Sin educación formal,NA,NA,159627,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+4,Hombre,70,Básica completa,Inactivo/a,NA,520795,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+14,Hombre,9,Básica incompleta,NA,NA,428734,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,21,Media completa,Ocupado/a,660000,786667,No pertenece,Nacido/a en Chile,No pobre
+11,Mujer,53,Media completa,Ocupado/a,430000,455000,Pertenece,Nacido/a en Chile,No pobre
+15,Hombre,32,Media completa,Ocupado/a,550000,553746,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+6,Hombre,36,Básica completa,Ocupado/a,200000,241918,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+1,Mujer,63,Media completa,Inactivo/a,NA,878750,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,60,Media completa,Ocupado/a,800000,902333,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,20,Media completa,Inactivo/a,NA,232102,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Hombre,30,Superior completa,Ocupado/a,615000,741528,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,26,Superior completa,Inactivo/a,NA,224303,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Hombre,18,Media completa,Desocupado/a,NA,331667,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,40,Básica completa,Ocupado/a,180000,143293,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Mujer,39,Superior completa,Ocupado/a,680000,437893,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,6,Sin educación formal,NA,NA,173314,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,34,Media completa,Ocupado/a,500000,476320,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+7,Mujer,16,Media incompleta,Inactivo/a,NA,193340,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+11,Hombre,58,Superior completa,Ocupado/a,2500000,1900000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,20,Media completa,Inactivo/a,NA,314789,No pertenece,Nacido/a en Chile,NA
+2,Hombre,22,Media completa,Ocupado/a,600000,780000,Pertenece,Nacido/a fuera de Chile,No pobre
+3,Mujer,48,Media completa,Ocupado/a,500000,790000,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,49,Media incompleta,Inactivo/a,NA,662500,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,32,Media completa,Ocupado/a,450000,389464,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,60,Media completa,Ocupado/a,500000,340833,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Hombre,7,Básica incompleta,NA,NA,770959,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,91,Media completa,Inactivo/a,NA,370590,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,62,Media completa,Inactivo/a,NA,1145833,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,39,Media completa,Ocupado/a,800000,345000,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,50,Media completa,Desocupado/a,NA,262811,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Hombre,56,Media completa,Ocupado/a,1200000,625851,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,72,Media incompleta,Ocupado/a,400000,598500,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,13,Básica incompleta,NA,NA,319821,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+2,Hombre,42,Media completa,Ocupado/a,1200000,870785,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,67,Media completa,Inactivo/a,NA,330431,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,21,Superior incompleta,Inactivo/a,NA,451802,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,58,Superior completa,Ocupado/a,1500000,1375000,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,44,Media completa,Ocupado/a,550000,513153,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,58,Básica incompleta,Ocupado/a,700000,466667,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,41,Media completa,Ocupado/a,500000,327482,No pertenece,Nacido/a en Chile,No pobre
+11,Mujer,72,Superior completa,Inactivo/a,NA,564765,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,44,Superior incompleta,Ocupado/a,500000,748611,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,48,Media completa,Ocupado/a,600000,200000,No pertenece,Nacido/a en Chile,Pobreza severa
+7,Mujer,8,Sin educación formal,NA,NA,136549,No pertenece,Nacido/a en Chile,Pobreza severa
+8,Mujer,80,Básica incompleta,Inactivo/a,NA,556499,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,52,Básica incompleta,Desocupado/a,NA,257148,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+2,Hombre,42,Media completa,Ocupado/a,1500000,333333,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,59,Media completa,Ocupado/a,700000,240405,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+14,Mujer,16,Media incompleta,Inactivo/a,NA,169086,Pertenece,Nacido/a en Chile,Pobreza severa
+12,Hombre,72,Media incompleta,Inactivo/a,NA,695395,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,37,Superior incompleta,Ocupado/a,720000,457417,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,48,Media completa,Inactivo/a,NA,153411,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,27,Superior incompleta,Ocupado/a,550000,241726,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Mujer,47,Superior completa,Ocupado/a,450000,426389,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,8,Básica incompleta,NA,NA,157131,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Hombre,64,Básica incompleta,Inactivo/a,NA,653598,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,71,Media incompleta,Inactivo/a,NA,828250,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,35,Superior completa,Ocupado/a,2500000,2620000,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,26,Media incompleta,Ocupado/a,400000,334859,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,56,Media completa,Ocupado/a,430000,533775,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,7,Básica incompleta,NA,NA,310094,No pertenece,Nacido/a en Chile,NA
+5,Hombre,50,Media incompleta,Ocupado/a,600000,665468,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,75,Básica completa,Inactivo/a,NA,580365,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,38,Superior incompleta,Ocupado/a,680000,412335,Pertenece,Nacido/a en Chile,No pobre
+5,Hombre,22,Superior incompleta,Inactivo/a,NA,629593,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,56,Superior completa,Desocupado/a,NA,356245,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Mujer,24,Media completa,Ocupado/a,500000,450000,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,15,Media incompleta,Inactivo/a,NA,251000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+11,Hombre,93,Básica completa,Inactivo/a,NA,554210,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,78,Básica completa,Inactivo/a,NA,305824,No pertenece,Nacido/a en Chile,No pobre
+11,Mujer,62,Básica completa,Inactivo/a,NA,390473,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,55,Básica completa,Inactivo/a,NA,200000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,27,Superior incompleta,Ocupado/a,300000,978917,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,20,Superior incompleta,Inactivo/a,NA,168574,No pertenece,Nacido/a en Chile,Pobreza severa
+5,Hombre,24,Media completa,Ocupado/a,700000,233333,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+10,Hombre,64,Básica incompleta,Ocupado/a,NA,420000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+4,Mujer,31,Media completa,Inactivo/a,NA,586085,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,41,Superior incompleta,Ocupado/a,150000,294800,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,59,Media completa,Ocupado/a,350000,264167,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+15,Mujer,17,Media incompleta,Inactivo/a,NA,320908,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,26,Superior incompleta,Inactivo/a,NA,416833,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,54,Superior completa,Ocupado/a,2400000,1724509,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,53,Media completa,Inactivo/a,NA,632148,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,25,Media incompleta,Inactivo/a,NA,289571,Pertenece,Nacido/a en Chile,No pobre
+5,Hombre,50,Media completa,Ocupado/a,350000,165091,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+1,Mujer,37,Superior completa,Ocupado/a,400000,900000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,23,Superior incompleta,Inactivo/a,NA,441741,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,72,Media incompleta,Inactivo/a,NA,564239,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,20,Media completa,Ocupado/a,500000,352182,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,13,Básica completa,NA,NA,368950,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,22,Superior incompleta,Inactivo/a,NA,426952,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,73,Básica completa,Inactivo/a,NA,190000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+1,Mujer,6,Sin educación formal,NA,NA,514583,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,24,Superior incompleta,Desocupado/a,NA,447396,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,5,Sin educación formal,NA,NA,169103,No pertenece,Nacido/a en Chile,Pobreza severa
+2,Mujer,23,Superior incompleta,Inactivo/a,NA,540000,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,13,Básica incompleta,NA,NA,159021,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,52,Media completa,Ocupado/a,600000,648333,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+5,Mujer,78,Básica incompleta,Inactivo/a,NA,356499,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+2,Hombre,4,Sin educación formal,NA,NA,922222,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,67,Media incompleta,Inactivo/a,NA,631034,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,72,Básica incompleta,Inactivo/a,NA,372023,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Mujer,23,Superior incompleta,Ocupado/a,500000,380295,Pertenece,Nacido/a en Chile,No pobre
+8,Mujer,61,Media completa,Ocupado/a,300000,336667,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,60,Básica incompleta,Inactivo/a,NA,319580,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,46,Media completa,Desocupado/a,NA,459522,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,70,Básica incompleta,Inactivo/a,NA,295000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+1,Mujer,12,Básica incompleta,NA,NA,165227,No pertenece,Nacido/a en Chile,Pobreza severa
+14,Hombre,33,Media completa,Ocupado/a,500000,182330,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,72,Básica completa,Ocupado/a,NA,456563,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,29,Superior completa,Ocupado/a,590000,622368,No pertenece,Nacido/a fuera de Chile,No pobre
+10,Mujer,12,Básica incompleta,NA,NA,573417,Pertenece,Nacido/a en Chile,No pobre
+16,Hombre,75,Sin educación formal,Inactivo/a,NA,774791,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,8,Básica incompleta,NA,NA,683000,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,35,Básica completa,Inactivo/a,NA,411407,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,10,Básica incompleta,NA,NA,182997,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,15,Media incompleta,Inactivo/a,NA,430898,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,49,Media completa,Ocupado/a,600000,293813,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,32,Superior completa,Ocupado/a,NA,645000,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,52,Básica completa,Ocupado/a,700000,318383,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,70,Superior completa,Ocupado/a,3000000,6075001,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,41,Media completa,Ocupado/a,330000,310000,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,31,Superior incompleta,Inactivo/a,NA,722639,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,47,Básica incompleta,Ocupado/a,500000,217099,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+15,Mujer,33,Superior completa,Ocupado/a,2200000,1025833,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,15,Básica completa,Inactivo/a,NA,201740,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+16,Hombre,51,Superior completa,Ocupado/a,1900000,1080556,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,15,Media incompleta,Inactivo/a,NA,506250,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,57,Superior completa,Ocupado/a,1200000,917500,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,21,Superior incompleta,Desocupado/a,NA,230823,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Hombre,44,Media completa,Ocupado/a,1200000,363574,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,51,Básica completa,Ocupado/a,450000,184771,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,70,Superior completa,Inactivo/a,NA,1666667,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,10,Básica incompleta,NA,NA,225157,Pertenece,Nacido/a en Chile,No pobre
+7,Hombre,60,Básica completa,Ocupado/a,600000,705000,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,35,Superior completa,Ocupado/a,289000,289000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Mujer,66,Media completa,Ocupado/a,500000,907750,Pertenece,Nacido/a en Chile,No pobre
+8,Mujer,66,Superior completa,Ocupado/a,350000,647629,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,34,Media completa,Inactivo/a,NA,223933,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Hombre,66,Media incompleta,Inactivo/a,NA,752124,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,66,Media incompleta,Ocupado/a,100000,437187,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,40,Superior completa,Ocupado/a,800000,579444,Pertenece,Nacido/a en Chile,No pobre
+5,Mujer,42,Media completa,Ocupado/a,150000,381471,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,42,Superior completa,Inactivo/a,NA,283333,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+2,Hombre,70,Superior completa,Inactivo/a,NA,420000,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,20,Superior incompleta,Inactivo/a,NA,625996,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,61,Media completa,Inactivo/a,NA,400498,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,65,Media completa,Inactivo/a,NA,490265,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,2,Sin educación formal,NA,NA,341292,No pertenece,Nacido/a en Chile,No pobre
+11,Mujer,37,Superior incompleta,Ocupado/a,650000,1050000,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,62,Básica incompleta,Ocupado/a,50000,576294,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Hombre,18,Media incompleta,Inactivo/a,NA,358494,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+10,Mujer,57,Básica completa,Inactivo/a,NA,472884,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Mujer,50,Media completa,Inactivo/a,NA,175996,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Mujer,45,Superior completa,Ocupado/a,3500000,1590000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,44,Superior completa,Inactivo/a,NA,739954,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,12,Básica incompleta,NA,NA,284584,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,71,Media completa,Ocupado/a,150000,390069,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,63,Básica completa,Ocupado/a,110000,377148,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Mujer,64,Básica completa,Inactivo/a,NA,184765,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+9,Mujer,70,Básica incompleta,Ocupado/a,120000,542490,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,19,Superior incompleta,Inactivo/a,NA,199139,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+11,Hombre,58,Sin educación formal,Inactivo/a,NA,2531945,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,56,Básica incompleta,Ocupado/a,500000,370196,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,61,Media incompleta,Inactivo/a,NA,406128,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Mujer,54,Media completa,Inactivo/a,NA,268964,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,76,Básica incompleta,Inactivo/a,NA,407189,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,65,Media completa,Inactivo/a,NA,464296,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Mujer,63,Superior incompleta,Ocupado/a,480000,390000,No pertenece,Nacido/a fuera de Chile,No pobre
+2,Mujer,12,Básica incompleta,NA,NA,271512,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+13,Hombre,2,Sin educación formal,NA,NA,296514,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,23,Media completa,Ocupado/a,500000,743333,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,80,Básica completa,Inactivo/a,NA,514000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Hombre,5,Sin educación formal,NA,NA,248766,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,74,Básica incompleta,Inactivo/a,NA,291996,No pertenece,Nacido/a en Chile,NA
+14,Mujer,74,Media incompleta,Inactivo/a,NA,316692,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Hombre,11,Básica incompleta,NA,NA,1815667,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,24,Superior completa,Ocupado/a,900000,925037,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,41,Media incompleta,Ocupado/a,650000,270278,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+10,Mujer,71,Básica incompleta,Inactivo/a,NA,325000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+1,Hombre,15,Media incompleta,Inactivo/a,NA,248748,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,15,Media incompleta,Inactivo/a,NA,675729,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,5,Sin educación formal,NA,NA,167471,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Mujer,70,Básica incompleta,Inactivo/a,NA,168574,No pertenece,NA,Pobreza severa
+8,Mujer,42,Superior completa,Ocupado/a,500000,516030,No pertenece,Nacido/a fuera de Chile,No pobre
+8,Hombre,13,Básica completa,NA,NA,442620,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,8,Básica incompleta,NA,NA,381432,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,59,Superior completa,Ocupado/a,3000000,2400000,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,56,Media incompleta,Ocupado/a,1000000,1094834,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,69,Media completa,Inactivo/a,NA,710895,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,47,Media completa,Ocupado/a,200000,376111,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,54,Media completa,Desocupado/a,NA,266667,No pertenece,Nacido/a en Chile,Pobreza severa
+12,Hombre,4,Sin educación formal,NA,NA,300608,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,52,Media incompleta,Ocupado/a,500000,439884,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+12,Hombre,66,Media incompleta,Ocupado/a,1000000,1780000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,50,Media incompleta,Inactivo/a,NA,348000,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,46,Superior completa,Ocupado/a,1000000,1471667,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,26,Superior incompleta,Ocupado/a,140000,206475,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,32,Superior completa,Ocupado/a,400000,553889,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+16,Mujer,61,Media completa,Inactivo/a,NA,830000,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,59,Superior completa,Ocupado/a,1500000,1736111,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,43,Superior completa,Ocupado/a,1200000,405524,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,24,Superior incompleta,Desocupado/a,NA,271432,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,38,Superior completa,Ocupado/a,1800000,1141500,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,62,Básica completa,Ocupado/a,550000,383167,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,13,Básica incompleta,NA,NA,228611,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Mujer,73,Superior completa,Inactivo/a,NA,811667,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,63,Media completa,Ocupado/a,500000,544524,Pertenece,Nacido/a en Chile,No pobre
+3,Hombre,0,Sin educación formal,NA,NA,742043,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,33,Superior completa,Ocupado/a,750000,485039,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,45,Superior completa,Inactivo/a,NA,476042,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,70,Básica incompleta,Inactivo/a,NA,360380,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,7,Básica incompleta,NA,NA,327667,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,75,Básica incompleta,Inactivo/a,NA,392643,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,10,Básica incompleta,NA,NA,153942,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,8,Básica incompleta,NA,NA,240721,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,32,Superior completa,Ocupado/a,900000,359046,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,26,Superior incompleta,Desocupado/a,NA,850000,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,58,Media completa,Inactivo/a,NA,346469,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+16,Hombre,40,Superior completa,Desocupado/a,NA,601695,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,41,Superior incompleta,Inactivo/a,NA,366991,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,45,Superior completa,Ocupado/a,800000,979599,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,26,Básica incompleta,Ocupado/a,400000,295448,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Hombre,59,Básica incompleta,Inactivo/a,NA,301000,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,33,Media incompleta,Ocupado/a,480000,286429,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,14,Media incompleta,NA,NA,511425,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,55,Superior completa,Ocupado/a,1800000,1706944,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,49,Media completa,Ocupado/a,80000,346872,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,3,Sin educación formal,NA,NA,207180,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Hombre,90,Media completa,Inactivo/a,NA,427146,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,55,Superior completa,Ocupado/a,6000000,3018750,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,19,Superior incompleta,Desocupado/a,NA,164162,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Hombre,12,Básica incompleta,NA,NA,273333,No pertenece,Nacido/a fuera de Chile,No pobre
+13,Mujer,50,Superior completa,Inactivo/a,NA,312500,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,23,Superior incompleta,Desocupado/a,NA,597790,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,69,Superior completa,Inactivo/a,NA,642084,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,9,Básica incompleta,NA,NA,176114,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+14,Mujer,10,Básica incompleta,NA,NA,325786,No pertenece,Nacido/a en Chile,NA
+8,Hombre,76,Básica completa,Inactivo/a,NA,445000,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,54,Media completa,Inactivo/a,NA,490996,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,62,Media completa,Inactivo/a,NA,412500,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,28,Media completa,Ocupado/a,500000,406667,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+2,Mujer,45,Media completa,Inactivo/a,NA,333333,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,50,Media completa,Ocupado/a,500000,1173000,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,10,Básica incompleta,NA,NA,301888,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,43,Media completa,Ocupado/a,1000000,1022083,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,2,Sin educación formal,NA,NA,155835,Pertenece,Nacido/a en Chile,Pobreza severa
+13,Hombre,62,Superior incompleta,Ocupado/a,700000,1179833,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,15,Media incompleta,Inactivo/a,NA,400000,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,44,Superior completa,Ocupado/a,800000,275494,No pertenece,Nacido/a en Chile,No pobre
+11,Hombre,44,Media completa,Ocupado/a,1600000,994167,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,28,Superior completa,Ocupado/a,500000,486900,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,50,Media completa,Inactivo/a,NA,625000,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,34,Superior completa,Desocupado/a,NA,462859,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,64,Media completa,Inactivo/a,NA,317266,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,50,Media completa,Ocupado/a,600000,381045,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,58,Media completa,Inactivo/a,NA,732000,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,57,Básica completa,Inactivo/a,NA,261095,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+11,Hombre,66,Superior incompleta,Ocupado/a,550000,950000,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,68,Básica incompleta,Inactivo/a,NA,413222,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,65,Media completa,Inactivo/a,NA,1096296,Pertenece,Nacido/a en Chile,No pobre
+15,Mujer,53,Media completa,Ocupado/a,300000,455750,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,23,Superior incompleta,Ocupado/a,500000,180912,Pertenece,Nacido/a en Chile,No pobre
+5,Hombre,35,Superior completa,Ocupado/a,1500000,1469916,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,79,Básica incompleta,Inactivo/a,NA,314296,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,31,Superior completa,Ocupado/a,800000,763893,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,41,Básica incompleta,Ocupado/a,NA,197531,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+15,Hombre,37,Media completa,Inactivo/a,NA,392864,Pertenece,Nacido/a en Chile,NA
+10,Hombre,93,Media completa,Inactivo/a,NA,513294,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,58,Básica completa,Ocupado/a,200000,266432,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+1,Mujer,33,Superior incompleta,Ocupado/a,488000,328495,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,26,Superior completa,Ocupado/a,500000,2670834,No pertenece,Nacido/a en Chile,No pobre
+16,Mujer,34,Superior completa,Ocupado/a,750000,1300000,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,57,Básica completa,Ocupado/a,350000,273598,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,54,Básica incompleta,Ocupado/a,200000,251194,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,27,Superior completa,Ocupado/a,400000,350000,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,35,Media completa,Desocupado/a,NA,339352,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,22,Media completa,Ocupado/a,200000,400000,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,57,Básica incompleta,Inactivo/a,NA,398549,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,91,Básica completa,Inactivo/a,NA,261068,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,70,Media completa,Ocupado/a,400000,1260833,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,25,Superior incompleta,Desocupado/a,NA,380000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Hombre,7,Básica incompleta,NA,NA,207392,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,29,Superior completa,Ocupado/a,500000,350000,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,19,Media completa,Inactivo/a,NA,274111,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,39,Media incompleta,Ocupado/a,600000,526042,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,27,Superior completa,Ocupado/a,1200000,1360000,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,37,Media completa,Inactivo/a,NA,303750,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,37,Media completa,Ocupado/a,300000,349409,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,40,Superior completa,Ocupado/a,1000000,2516667,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,35,Superior incompleta,Ocupado/a,500000,200833,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+13,Mujer,26,Superior incompleta,Desocupado/a,NA,699375,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,31,Superior completa,Ocupado/a,4000000,3850000,No pertenece,Nacido/a fuera de Chile,No pobre
+9,Mujer,58,Básica completa,Ocupado/a,250000,251991,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,9,Básica incompleta,NA,NA,2082917,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,61,Media completa,Ocupado/a,400000,807329,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,34,Superior incompleta,Ocupado/a,460000,243221,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+1,Mujer,22,Superior completa,Ocupado/a,900000,975000,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,50,Media completa,Inactivo/a,NA,578864,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,47,Superior completa,Ocupado/a,NA,350000,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,66,Media incompleta,Ocupado/a,400000,672046,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,28,Media completa,Ocupado/a,500000,572379,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+11,Mujer,5,Sin educación formal,NA,NA,1175000,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,58,Media completa,Ocupado/a,200000,483667,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,70,Media completa,Inactivo/a,NA,536333,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,66,Media incompleta,Ocupado/a,50000,341667,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,50,Superior completa,Ocupado/a,150000,219278,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+15,Hombre,35,Media incompleta,Inactivo/a,NA,324762,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,47,Superior completa,Ocupado/a,800000,695477,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,22,Media completa,Ocupado/a,90000,174088,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+9,Mujer,73,Media completa,Inactivo/a,NA,494222,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,37,Media completa,Desocupado/a,NA,174210,No pertenece,Nacido/a en Chile,Pobreza severa
+2,Mujer,51,NA,Inactivo/a,NA,615941,Pertenece,Nacido/a en Chile,No pobre
+5,Hombre,81,Media incompleta,Inactivo/a,NA,355750,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,36,Superior completa,Ocupado/a,2500000,3355001,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,62,Media incompleta,Inactivo/a,NA,188773,No pertenece,Nacido/a en Chile,Pobreza severa
+16,Hombre,54,Media completa,Ocupado/a,502000,652000,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,82,Media incompleta,Inactivo/a,NA,347089,No pertenece,Nacido/a en Chile,No pobre
+15,Mujer,17,Media completa,Inactivo/a,NA,283333,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+8,Mujer,36,Superior completa,Ocupado/a,800000,573157,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,57,Media completa,Ocupado/a,270000,199387,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Mujer,15,Media incompleta,Inactivo/a,NA,183000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,42,Superior completa,Ocupado/a,800000,379572,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,72,Básica incompleta,Inactivo/a,NA,488791,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,7,Básica incompleta,NA,NA,1250996,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,16,Media incompleta,Inactivo/a,NA,678306,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,53,Media completa,Inactivo/a,NA,212762,Pertenece,Nacido/a en Chile,No pobre
+13,Mujer,75,Media completa,Ocupado/a,200000,687972,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,39,Superior incompleta,Ocupado/a,1000000,1302084,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,16,Media incompleta,Inactivo/a,NA,324610,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,46,Superior incompleta,Ocupado/a,820000,1049792,Pertenece,Nacido/a en Chile,No pobre
+9,Hombre,36,Superior completa,Desocupado/a,NA,196664,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Hombre,12,Básica incompleta,NA,NA,240414,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+9,Mujer,77,Media completa,Inactivo/a,NA,519941,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,0,Sin educación formal,NA,NA,252425,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,34,Superior incompleta,Ocupado/a,900000,6348556,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,42,Superior completa,Desocupado/a,NA,500000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,51,Superior incompleta,Ocupado/a,600000,735556,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,41,Superior incompleta,Ocupado/a,800000,912222,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,18,Media completa,Inactivo/a,NA,287767,No pertenece,Nacido/a en Chile,Pobreza severa
+2,Mujer,35,Superior completa,Ocupado/a,2500000,1224444,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,27,Media completa,Ocupado/a,350000,287682,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,63,Superior completa,Ocupado/a,2239096,580637,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,15,Media incompleta,Inactivo/a,NA,400000,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Hombre,2,Sin educación formal,NA,NA,320000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,33,Media completa,Ocupado/a,400000,268056,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+3,Hombre,59,Básica completa,Ocupado/a,1300000,1345833,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,26,Media completa,Ocupado/a,300000,227714,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Mujer,21,Superior incompleta,Inactivo/a,NA,403089,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,20,NA,Ocupado/a,500000,372867,No pertenece,NA,No pobre
+15,Hombre,14,Básica incompleta,NA,NA,218224,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Mujer,9,Básica incompleta,NA,NA,545114,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,59,Básica completa,Inactivo/a,NA,337500,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,17,Media completa,Inactivo/a,NA,223213,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+16,Hombre,48,Media completa,Desocupado/a,NA,365552,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,22,Superior incompleta,Inactivo/a,NA,174000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,19,Media incompleta,Ocupado/a,550000,592222,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Hombre,5,Sin educación formal,NA,NA,723667,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,71,Básica incompleta,Ocupado/a,NA,250000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Hombre,28,Media incompleta,Ocupado/a,500000,308333,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+16,Hombre,15,Media incompleta,Inactivo/a,NA,192812,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Mujer,4,Sin educación formal,NA,NA,234730,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+15,Hombre,15,Media incompleta,Inactivo/a,NA,413036,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,34,Superior completa,Ocupado/a,600000,403574,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,19,Superior incompleta,Inactivo/a,NA,345422,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,34,Superior completa,Ocupado/a,300000,704765,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,26,Básica completa,Inactivo/a,NA,80000,No pertenece,Nacido/a fuera de Chile,Pobreza severa
+13,Mujer,32,Superior completa,Ocupado/a,1000000,829167,No pertenece,Nacido/a fuera de Chile,No pobre
+4,Mujer,2,Sin educación formal,NA,NA,273598,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,67,Básica incompleta,Inactivo/a,NA,545500,No pertenece,Nacido/a en Chile,No pobre
+15,Mujer,42,Superior completa,Ocupado/a,160000,202050,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+16,Mujer,10,Básica incompleta,NA,NA,301128,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,54,Media completa,Desocupado/a,NA,254192,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Hombre,57,Sin educación formal,Inactivo/a,NA,286435,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Mujer,18,Media completa,Desocupado/a,NA,1852626,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,72,Media completa,Inactivo/a,NA,680000,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,30,Media completa,Ocupado/a,1500000,645958,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,39,Media incompleta,Ocupado/a,43000,64821,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Hombre,68,Básica incompleta,Inactivo/a,NA,463000,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,16,Media incompleta,Inactivo/a,NA,847083,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,40,Media completa,Inactivo/a,NA,606250,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,81,Superior incompleta,Ocupado/a,3000000,6837500,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,71,Media incompleta,Inactivo/a,NA,365333,Pertenece,Nacido/a en Chile,No pobre
+4,Hombre,84,Básica completa,Inactivo/a,NA,230443,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,62,Superior completa,Inactivo/a,NA,306000,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,70,Media completa,Inactivo/a,NA,756439,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,48,Básica completa,Ocupado/a,600000,123000,No pertenece,Nacido/a en Chile,Pobreza severa
+4,Mujer,30,Superior completa,Ocupado/a,1000000,1201294,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,36,Media completa,Desocupado/a,NA,231503,Pertenece,Nacido/a en Chile,No pobre
+6,Mujer,70,Básica incompleta,Ocupado/a,20000,467786,No pertenece,Nacido/a fuera de Chile,No pobre
+4,Hombre,15,Media incompleta,Inactivo/a,NA,150000,No pertenece,Nacido/a fuera de Chile,NA
+16,Hombre,72,Básica incompleta,Inactivo/a,NA,422082,No pertenece,Nacido/a en Chile,No pobre
+10,Mujer,63,Media completa,Inactivo/a,NA,550000,No pertenece,Nacido/a en Chile,NA
+7,Mujer,44,Media completa,Inactivo/a,NA,300703,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+1,Hombre,36,Media incompleta,Ocupado/a,950000,276994,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+16,Mujer,24,Media completa,Inactivo/a,NA,250000,No pertenece,Nacido/a en Chile,NA
+7,Hombre,37,Superior completa,Ocupado/a,1200000,2381667,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,52,Superior completa,Ocupado/a,9000000,3900500,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,69,Superior completa,Inactivo/a,NA,940000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,22,Media completa,Inactivo/a,NA,351350,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+7,Mujer,15,Media incompleta,Inactivo/a,NA,176386,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,63,Media incompleta,Inactivo/a,NA,271000,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,40,Superior completa,Ocupado/a,600000,768250,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,48,Superior completa,Desocupado/a,NA,250000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,74,Media incompleta,Inactivo/a,NA,420795,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,30,Superior completa,Ocupado/a,300000,408496,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,58,Media completa,Ocupado/a,700000,238749,No pertenece,Nacido/a en Chile,No pobre
+11,Mujer,35,Media completa,Inactivo/a,NA,184382,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+5,Hombre,65,Superior incompleta,Inactivo/a,NA,340000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,12,Básica incompleta,NA,NA,800000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,57,Media completa,Ocupado/a,NA,279767,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,33,Superior completa,Ocupado/a,1400000,754222,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,15,Media incompleta,Inactivo/a,NA,587500,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,7,Básica incompleta,NA,NA,285714,No pertenece,Nacido/a fuera de Chile,No pobre
+1,Mujer,64,Superior completa,Inactivo/a,NA,793933,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,56,Superior completa,Ocupado/a,1300000,778472,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,44,Superior completa,Ocupado/a,1200000,836111,No pertenece,Nacido/a fuera de Chile,No pobre
+13,Mujer,15,Media incompleta,Inactivo/a,NA,433333,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,30,Media completa,Ocupado/a,250000,342778,Pertenece,Nacido/a en Chile,No pobre
+9,Mujer,17,Media completa,Desocupado/a,NA,450000,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,33,Media completa,Ocupado/a,500000,305200,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,54,Superior completa,Ocupado/a,2500000,1131433,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,72,Básica completa,Inactivo/a,NA,497750,Pertenece,Nacido/a en Chile,No pobre
+3,Hombre,43,Superior completa,Ocupado/a,2500000,1550000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,62,Superior completa,Desocupado/a,NA,425000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Mujer,26,Media completa,Inactivo/a,NA,655162,Pertenece,Nacido/a en Chile,No pobre
+12,Mujer,64,Superior completa,Ocupado/a,300000,900000,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,70,Sin educación formal,Inactivo/a,NA,348863,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+2,Mujer,33,Media completa,Inactivo/a,NA,290313,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+5,Mujer,21,Superior incompleta,Inactivo/a,NA,580000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,10,Básica incompleta,NA,NA,279444,No pertenece,Nacido/a fuera de Chile,No pobre
+7,Hombre,23,Media incompleta,Ocupado/a,450000,450000,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+7,Hombre,28,Media completa,Ocupado/a,700000,750000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,62,Media completa,Ocupado/a,600000,513496,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,8,Básica incompleta,NA,NA,168206,Pertenece,Nacido/a en Chile,Pobreza multidimensional
+7,Mujer,67,Básica completa,Inactivo/a,NA,346544,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,46,Superior completa,Ocupado/a,600000,471459,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,58,Básica completa,Inactivo/a,NA,741500,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,58,Media incompleta,Ocupado/a,300000,300000,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+5,Hombre,21,Superior incompleta,Ocupado/a,350000,1071222,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,4,Sin educación formal,NA,NA,175459,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,11,Básica incompleta,NA,NA,348625,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+10,Mujer,12,Básica incompleta,NA,NA,174981,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+12,Hombre,25,Superior completa,Ocupado/a,900000,821000,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,13,Básica completa,NA,NA,2000000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,56,Superior completa,Ocupado/a,1700000,1950000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,54,Superior completa,Ocupado/a,1200000,564249,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,34,Media completa,Desocupado/a,NA,462625,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,51,Superior completa,Ocupado/a,1100000,914660,Pertenece,Nacido/a en Chile,No pobre
+7,Hombre,83,Media incompleta,Ocupado/a,500000,944499,No pertenece,Nacido/a fuera de Chile,No pobre
+13,Hombre,16,Media incompleta,Inactivo/a,NA,125000,No pertenece,Nacido/a fuera de Chile,Pobreza por ingresos
+13,Hombre,51,Media completa,Ocupado/a,500000,855556,No pertenece,Nacido/a en Chile,No pobre
+6,Mujer,74,Básica incompleta,Inactivo/a,NA,453999,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,5,Sin educación formal,NA,NA,285896,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,67,Superior completa,Ocupado/a,1280000,4219087,No pertenece,NA,No pobre
+16,Hombre,81,Básica incompleta,Inactivo/a,NA,229528,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+16,Hombre,72,Media incompleta,Inactivo/a,NA,248391,No pertenece,Nacido/a en Chile,Pobreza severa
+13,Mujer,17,Media incompleta,Inactivo/a,NA,516667,No pertenece,Nacido/a fuera de Chile,No pobre
+5,Hombre,5,Básica incompleta,NA,NA,175446,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,47,Superior completa,Ocupado/a,1100000,293750,No pertenece,Nacido/a fuera de Chile,No pobre
+2,Mujer,1,Sin educación formal,NA,NA,3255278,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,27,Superior incompleta,Ocupado/a,500000,675000,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,54,Media completa,Ocupado/a,500000,495643,Pertenece,Nacido/a en Chile,No pobre
+16,Mujer,22,Media completa,Ocupado/a,800000,643997,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,92,Básica incompleta,Inactivo/a,NA,566667,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Mujer,69,Media incompleta,Inactivo/a,NA,1341250,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,62,Básica incompleta,Inactivo/a,NA,686991,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+8,Mujer,48,Media completa,Ocupado/a,500000,137463,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,47,Básica completa,Ocupado/a,750000,318750,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,6,Sin educación formal,NA,NA,3243333,Pertenece,Nacido/a en Chile,No pobre
+3,Mujer,33,Superior completa,Desocupado/a,NA,214000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Hombre,57,Básica incompleta,Ocupado/a,500000,502500,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,19,Superior incompleta,Inactivo/a,NA,425000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,57,Superior completa,Ocupado/a,1500000,992500,No pertenece,Nacido/a fuera de Chile,No pobre
+3,Hombre,23,Media completa,Ocupado/a,650000,284859,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,65,Básica completa,Ocupado/a,500000,692864,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,34,Media completa,Ocupado/a,500000,512269,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,26,Superior incompleta,Ocupado/a,900000,815262,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,54,Superior completa,Ocupado/a,175000,371000,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+11,Hombre,57,Básica completa,Inactivo/a,NA,486912,Pertenece,Nacido/a en Chile,No pobre
+1,Mujer,5,Sin educación formal,NA,NA,980565,Pertenece,Nacido/a en Chile,No pobre
+2,Mujer,66,Superior completa,Inactivo/a,NA,795000,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,40,Superior completa,Ocupado/a,1300000,2275000,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,63,Superior incompleta,Ocupado/a,1200000,756250,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,84,Básica incompleta,Inactivo/a,NA,479364,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,60,Básica completa,Desocupado/a,NA,390000,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+6,Hombre,6,Sin educación formal,NA,NA,209098,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,30,Superior completa,Ocupado/a,1900000,930000,Pertenece,Nacido/a en Chile,No pobre
+14,Hombre,55,Media incompleta,Ocupado/a,150000,696303,No pertenece,Nacido/a en Chile,No pobre
+11,Mujer,70,Media incompleta,Inactivo/a,NA,427776,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,75,Media incompleta,Inactivo/a,NA,366932,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,27,Media completa,Ocupado/a,630000,500689,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,37,Media completa,Ocupado/a,800000,673526,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,49,Básica completa,Ocupado/a,500000,317101,No pertenece,Nacido/a en Chile,No pobre
+12,Mujer,45,Superior completa,Ocupado/a,300000,1303750,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,16,Media incompleta,Inactivo/a,NA,638889,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,55,Básica completa,Inactivo/a,NA,452575,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,54,Superior completa,Ocupado/a,2800000,2019959,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,12,Básica incompleta,NA,NA,203358,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,16,Media incompleta,Inactivo/a,NA,424482,No pertenece,Nacido/a en Chile,No pobre
+9,Hombre,77,Básica completa,Inactivo/a,NA,339264,Pertenece,Nacido/a en Chile,No pobre
+16,Mujer,1,Sin educación formal,NA,NA,268333,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+6,Hombre,41,Media completa,Ocupado/a,600000,278371,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,67,Superior completa,Inactivo/a,NA,285816,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,71,Básica completa,Inactivo/a,NA,520596,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,2,Sin educación formal,NA,NA,578125,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,36,Media incompleta,Ocupado/a,300000,75000,No pertenece,Nacido/a fuera de Chile,Pobreza severa
+15,Hombre,12,Básica incompleta,NA,NA,471243,No pertenece,Nacido/a en Chile,No pobre
+12,Hombre,14,Básica completa,NA,NA,238167,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+2,Hombre,40,Media completa,Ocupado/a,1300000,638056,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,30,Superior completa,Ocupado/a,1500000,1950000,No pertenece,Nacido/a en Chile,No pobre
+9,Mujer,89,Básica incompleta,Inactivo/a,NA,367462,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+14,Hombre,66,Media incompleta,Inactivo/a,NA,312549,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+7,Mujer,19,Media completa,Inactivo/a,NA,355838,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,22,Media completa,Inactivo/a,NA,961777,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,68,Media incompleta,Desocupado/a,NA,383386,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,7,Básica incompleta,NA,NA,193122,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+7,Hombre,59,Básica incompleta,Ocupado/a,500000,550000,No pertenece,Nacido/a en Chile,NA
+14,Mujer,61,Básica completa,Inactivo/a,NA,200000,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,22,Superior completa,Ocupado/a,600000,823917,No pertenece,Nacido/a en Chile,No pobre
+2,Mujer,59,Superior completa,Ocupado/a,1800000,1440417,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+13,Hombre,33,Superior completa,Ocupado/a,1000000,810000,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,73,Básica incompleta,Inactivo/a,NA,233829,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,15,Media incompleta,Inactivo/a,NA,550000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,37,Media completa,Ocupado/a,800000,525000,No pertenece,Nacido/a fuera de Chile,No pobre
+5,Mujer,30,Superior completa,Ocupado/a,1018721,1042883,No pertenece,Nacido/a en Chile,NA
+15,Mujer,90,Media completa,Inactivo/a,NA,506077,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,3,Sin educación formal,NA,NA,204167,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+2,Hombre,35,Superior completa,Ocupado/a,1800000,876667,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,46,Media incompleta,Ocupado/a,500000,457081,No pertenece,Nacido/a en Chile,No pobre
+5,Hombre,69,Media completa,Inactivo/a,NA,510000,No pertenece,Nacido/a en Chile,No pobre
+1,Mujer,27,Superior completa,Ocupado/a,600000,476015,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+7,Mujer,44,Media completa,Ocupado/a,615000,422069,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,31,Media completa,Ocupado/a,5000000,5500000,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,66,Superior incompleta,Ocupado/a,650000,716871,No pertenece,Nacido/a en Chile,No pobre
+4,Mujer,12,Básica incompleta,NA,NA,898125,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,24,Superior incompleta,Ocupado/a,480000,750639,Pertenece,Nacido/a en Chile,No pobre
+16,Mujer,58,Básica incompleta,Inactivo/a,NA,269915,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+1,Mujer,29,Superior completa,Ocupado/a,448000,433571,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+5,Mujer,19,Superior incompleta,Inactivo/a,NA,384790,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,39,Media completa,Ocupado/a,650000,272129,No pertenece,Nacido/a en Chile,No pobre
+15,Hombre,27,Media completa,Inactivo/a,NA,278574,No pertenece,Nacido/a en Chile,No pobre
+6,Hombre,28,Media completa,Ocupado/a,700000,415763,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,34,Media completa,Desocupado/a,NA,237500,No pertenece,Nacido/a fuera de Chile,No pobre
+9,Hombre,22,Superior incompleta,Inactivo/a,NA,126121,Pertenece,Nacido/a en Chile,Pobreza por ingresos
+8,Hombre,23,Superior incompleta,Desocupado/a,NA,203828,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,72,Media incompleta,Inactivo/a,NA,625867,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,59,Media incompleta,Ocupado/a,400000,600000,Pertenece,Nacido/a en Chile,No pobre
+7,Hombre,35,Básica completa,Desocupado/a,NA,161009,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+4,Hombre,10,Básica incompleta,NA,NA,242212,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+9,Hombre,22,Media completa,Inactivo/a,NA,121432,No pertenece,Nacido/a en Chile,Pobreza severa
+8,Hombre,38,Media completa,Ocupado/a,400000,755750,No pertenece,Nacido/a en Chile,No pobre
+11,Hombre,68,Básica incompleta,Ocupado/a,360000,276472,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+3,Hombre,70,Media incompleta,Ocupado/a,400000,543799,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,63,Media completa,Ocupado/a,900000,400000,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,31,Superior completa,Desocupado/a,NA,267778,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+15,Hombre,33,Superior completa,Ocupado/a,500000,730311,Pertenece,Nacido/a fuera de Chile,No pobre
+6,Mujer,63,Media completa,Ocupado/a,460000,601602,No pertenece,Nacido/a en Chile,No pobre
+16,Hombre,16,Media incompleta,Inactivo/a,NA,183997,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+11,Mujer,88,Básica incompleta,Inactivo/a,NA,513416,No pertenece,Nacido/a en Chile,No pobre
+3,Hombre,30,Media completa,Ocupado/a,500000,1526250,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,36,Media completa,Ocupado/a,500000,852500,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,79,Básica incompleta,Inactivo/a,NA,387907,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,52,Media completa,Ocupado/a,200000,222531,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Hombre,62,Media completa,Ocupado/a,800000,434216,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,57,Media completa,Inactivo/a,NA,350000,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+2,Mujer,36,Superior completa,Inactivo/a,NA,390625,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,35,Media incompleta,Ocupado/a,NA,226051,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,32,Media completa,Ocupado/a,500000,108497,No pertenece,Nacido/a fuera de Chile,Pobreza severa
+13,Mujer,21,Media completa,Inactivo/a,NA,268725,No pertenece,Nacido/a en Chile,Pobreza severa
+8,Hombre,32,Superior completa,Ocupado/a,1300000,1033333,No pertenece,Nacido/a en Chile,No pobre
+1,Hombre,28,Superior incompleta,Ocupado/a,700000,475750,No pertenece,Nacido/a en Chile,Pobreza multidimensional
+6,Hombre,53,Media completa,Ocupado/a,550000,671944,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,49,Media incompleta,Ocupado/a,400000,181607,No pertenece,Nacido/a en Chile,Pobreza severa
+5,Mujer,22,Superior incompleta,Inactivo/a,NA,395000,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,62,Media incompleta,Desocupado/a,NA,945000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,40,Superior completa,Ocupado/a,507000,507000,Pertenece,Nacido/a en Chile,No pobre
+8,Mujer,10,Básica incompleta,NA,NA,174807,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+13,Mujer,54,Media completa,Ocupado/a,500000,607728,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,78,Básica incompleta,Inactivo/a,NA,331499,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+3,Mujer,6,Básica incompleta,NA,NA,233333,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,15,Media incompleta,Inactivo/a,NA,158288,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+10,Mujer,47,Media completa,Ocupado/a,500000,562431,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,48,Superior completa,Ocupado/a,1000000,1059885,No pertenece,Nacido/a en Chile,No pobre
+11,Mujer,53,Básica completa,Ocupado/a,350000,514343,Pertenece,Nacido/a en Chile,No pobre
+13,Hombre,27,Superior incompleta,Ocupado/a,650000,744459,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,6,Sin educación formal,NA,NA,697476,Pertenece,Nacido/a en Chile,No pobre
+1,Hombre,52,Media completa,Ocupado/a,1200000,450000,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,10,Básica incompleta,NA,NA,297213,Pertenece,Nacido/a en Chile,No pobre
+5,Mujer,62,Media completa,Ocupado/a,400000,784722,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,12,Básica incompleta,NA,NA,912500,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,65,Media completa,Inactivo/a,NA,449210,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,69,Superior completa,Inactivo/a,NA,1225000,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,62,Media completa,Inactivo/a,NA,285590,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,10,Básica incompleta,NA,NA,349268,No pertenece,Nacido/a en Chile,No pobre
+13,Hombre,61,Media completa,Inactivo/a,NA,296469,No pertenece,Nacido/a en Chile,No pobre
+14,Mujer,55,Básica completa,Ocupado/a,200000,699750,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,51,Básica completa,Ocupado/a,350000,274825,Pertenece,Nacido/a en Chile,No pobre
+9,Hombre,54,Básica completa,Ocupado/a,350000,338996,No pertenece,Nacido/a en Chile,NA
+4,Mujer,26,Media completa,Inactivo/a,NA,216992,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,64,Superior completa,Inactivo/a,NA,2829444,No pertenece,Nacido/a en Chile,No pobre
+14,Hombre,30,Superior completa,Ocupado/a,30000,434308,No pertenece,Nacido/a en Chile,No pobre
+8,Hombre,38,Superior completa,Ocupado/a,1000000,337500,No pertenece,Nacido/a en Chile,No pobre
+13,Mujer,22,Superior incompleta,Inactivo/a,NA,2141154,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,41,Superior incompleta,Ocupado/a,620000,240667,No pertenece,Nacido/a fuera de Chile,Pobreza multidimensional
+10,Hombre,22,Superior incompleta,Inactivo/a,NA,571065,No pertenece,Nacido/a en Chile,No pobre
+8,Mujer,42,Superior completa,Ocupado/a,1500000,1196709,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,68,Superior completa,Ocupado/a,260000,836250,No pertenece,Nacido/a en Chile,No pobre
+7,Hombre,83,Media incompleta,Inactivo/a,NA,314000,No pertenece,Nacido/a en Chile,No pobre
+4,Hombre,58,Superior completa,Ocupado/a,3000000,4104166,No pertenece,Nacido/a en Chile,No pobre
+5,Mujer,17,Media incompleta,Inactivo/a,NA,291136,No pertenece,Nacido/a en Chile,No pobre
+7,Mujer,58,Media completa,Ocupado/a,200000,452588,No pertenece,Nacido/a en Chile,Pobreza por ingresos
+4,Hombre,35,Superior completa,Ocupado/a,1300000,523732,No pertenece,Nacido/a en Chile,No pobre
+2,Hombre,48,Sin educación formal,Ocupado/a,500000,603099,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,55,Media incompleta,Ocupado/a,150000,342637,No pertenece,Nacido/a en Chile,No pobre
+10,Hombre,37,Media completa,Ocupado/a,800000,505054,Pertenece,Nacido/a en Chile,NA
+13,Mujer,14,Básica completa,NA,NA,433333,No pertenece,Nacido/a en Chile,No pobre
+3,Mujer,8,Básica incompleta,NA,NA,516655,Pertenece,Nacido/a en Chile,No pobre
+8,Mujer,47,Básica completa,Ocupado/a,450000,640417,No pertenece,Nacido/a en Chile,No pobre

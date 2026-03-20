@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Introducción a R y RStudio</title>
+    <meta charset="utf-8" />
+    <script src="libs/header-attrs-2.29/header-attrs.js"></script>
+    <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
+    <link rel="stylesheet" href="custom_dark.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+
+
+
+background-color: #1a1a2e
+class: middle
+
+.badge[Ayudantía 01 · FAGOB 2026]
+
+# Introducción a R y RStudio
+
+.divider[]
+
+**Métodos Cuantitativos para la Administración Pública**
+
+.muted[
+Cristóbal Mejías &amp;nbsp;·&amp;nbsp; Facultad de Gobierno  
+Viernes 20 de marzo, 2026
+]
+
+---
+
+## Agenda de hoy
+
+.col-izq[
+**¿Qué haremos?**
+
+1. Diagnóstico inicial
+2. El ecosistema de software
+3. ¿Qué es R y por qué usarlo?
+4. Conociendo RStudio
+5. Sistema de carpetas
+6. Cargar y explorar CASEN 2024
+]
+
+.col-der[
+.caja-info[
+**Duración:** 90 minutos
+
+**Lo más importante:**
+Al final de la sesión vas a poder abrir una base de datos real y explorarla en R.
+]
+]
+
+---
+
+background-color: #e94560
+class: center, middle, white
+
+# 01
+# Diagnóstico inicial
+
+---
+
+## ¿Dónde estamos parados?
+
+--
+
+**¿Ya tienen R y RStudio instalados?**
+
+--
+
+**¿Han usado antes algún software estadístico?**
+.muted[(SPSS, Stata, Excel para análisis...)]
+
+--
+
+**¿Tienen computador para traer a las próximas ayudantías?**
+
+--
+
+.caja[
+Estos datos nos ayudan a calibrar el ritmo de las ayudantías y decidir si necesitamos sesiones de refuerzo.
+]
+
+---
+
+background-color: #e94560
+class: center, middle, white
+
+# 02
+# El ecosistema de software
+
+---
+
+## ¿Qué herramienta uso para qué?
+
+| Herramienta | ¿Qué es? | ¿Para qué se usa? |
+|---|---|---|
+| **R** | Lenguaje estadístico | Análisis de datos, modelos, visualizaciones |
+| **RStudio / Positron** | Entorno de trabajo (IDE) | Interfaz para escribir código en R |
+| **Python** | Lenguaje de programación general | Machine learning, automatización, web |
+| **VS Code** | Editor de código universal | Programar en cualquier lenguaje |
+
+
+--
+
+.caja[
+**En este curso usamos R + RStudio** porque es el estándar en ciencias sociales cuantitativas, es gratuito y produce análisis reproducibles.
+]
+
+---
+
+background-color: #e94560
+class: center, middle, white
+
+# 03
+# ¿Qué es R y por qué usarlo?
+
+---
+
+## ¿Qué es R?
+
+.col-izq[
+R es un **lenguaje de programación estadístico** de código abierto, creado en 1993 por Ross Ihaka y Robert Gentleman en la Universidad de Auckland.
+
+- +20.000 paquetes en CRAN
+- Comunidad científica global
+- Completamente gratuito
+- Análisis **reproducibles**
+]
+
+.col-der[
+.caja[
+**¿Qué significa reproducible?**
+
+Que otra persona puede tomar tu código y llegar exactamente al mismo resultado. Es el estándar de la **ciencia abierta**.
+]
+
+.caja-info[
+R es usado por el INE, el Banco Mundial, el MDSF y miles de instituciones públicas para analizar datos.
+]
+]
+
+---
+
+## R vs. otros softwares
+
+| | R | SPSS | Excel |
+|---|:---:|:---:|:---:|
+| Gratuito | ✅ | ❌ | ❌ |
+| Reproducible | ✅ | ⚠️ | ❌ |
+| Código abierto | ✅ | ❌ | ❌ |
+| Gráficos avanzados | ✅ | ⚠️ | ⚠️ |
+
+--
+
+.caja[
+En administración pública, la **transparencia y reproducibilidad** de los análisis es cada vez más exigida. R lo permite de forma nativa.
+]
+
+---
+
+background-color: #e94560
+class: center, middle, white
+
+# 04
+# Trabajar ordenadamente
+
+---
+
+## Proyectos de R (.Rproject)
+
+Es necesario tener un ambiente ordenadamente. Para esto, vamos a trabajar dentro de *proyectos* (.Rproject), el cual será nuestro "hogar"... 
+
+El primer paso será construir este *hogar* (proyecto)
+
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/casa_vacía.jpg" width="700"&gt;
+&lt;/div&gt;
+
+---
+
+## Proyectos de R (.Rproject)
+
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/noproyecto.png" width="250"&gt;
+&lt;/div&gt;
+
+1. New project -&gt; New Directory -&gt; New Project
+2. Directory Name: Nombre sustantivo "ayudantia-1"
+3. Browse: ubicación, por ej. "Métodos cuantitativos"
+4. Seleccionan Open y Create Project
+5. ¡Tienen su primer proyecto en R!
+
+---
+
+## Proyectos de R (.Rproject)
+
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/casasinIPO.jpg" width="700"&gt;
+&lt;/div&gt;
+
+---
+
+## Explorando R por primera vez
+
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/panel1.png" width="700"&gt;
+&lt;/div&gt;
+
+
+**Verán 3 paneles solamente**
+
+---
+## Explorando R por primera vez
+
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/panel2.png" width="700"&gt;
+&lt;/div&gt;
+
+
+**Deben ir a File -&gt; New File -&gt; R Script / o simplemente presionar Ctrl + Mayús + N**
+
+
+---
+## Los 4 paneles de RStudio
+
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/panel.png" width="500"&gt;
+&lt;/div&gt;
+
+| Panel | Ubicación | ¿Para qué sirve? |
+|---|---|---|
+| **Editor / Script** | Arriba izquierda | Escribir y guardar tu código |
+| **Consola / Visualizador ** | Abajo izquierda | Ejecutar código y ver resultados |
+| **Entorno** | Arriba derecha | Ver objetos y datos cargados |
+| **Archivos / Gráficos** | Abajo derecha | Explorar carpetas y visualizar gráficos |
+
+
+---
+
+background-color: #e94560
+class: center, middle, white
+
+# 05
+# Sistema de carpetas
+
+---
+
+## Cómo organizar tu trabajo
+
+Nuestra intención es crear trabajo *reproducible*
+Se recomienda el sistema de carpetas IPO: Input, Procesamiento, Output
+
+**ayudantia-1**
+  - .Rproject
+  - input
+  - procesamiento
+  - output
+
+--
+
+.col-izq[
+**¿Por qué esto importa?**
+
+- Siempre sabes dónde está cada cosa
+- Evita rutas de archivo rotas
+- Facilita el trabajo colaborativo
+- Es el estándar en proyectos de datos
+]
+
+.col-der[
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/carpetas.png" width="250"&gt;
+&lt;/div&gt;
+]
+
+---
+
+## Cómo organizar tu trabajo
+
+&lt;div style="text-align: center;"&gt;
+  &lt;img src="input/images/ordencarpetas.jpg" width="800"&gt;
+&lt;/div&gt;
+
+---
+
+## Primer contacto con R
+
+Escribe esto en tu **Script** y ejecútalo con `Ctrl + Enter`. El cursor puede estar en **cualquier lugar de la LINEA**
+
+
+``` r
+# Mi primer código en R
+print("¡Hola desde Vicuña 20!")
+
+# R como calculadora
+2 + 2
+sqrt(144)
+log(100)
+
+# Crear un objeto
+caja &lt;- "gatos" 
+caja
+
+a &lt;- 4
+a
+a * 5
+```
+
+El símbolo `&lt;-` es el operador de asignación en R. Atajo: `Alt + -`
+
+---
+
+background-color: #e94560
+class: center, middle, white
+
+# 06
+# Cargar y explorar CASEN 2024
+
+---
+
+## Cargar la base de datos
+
+Guarda el archivo `casen_ay1.csv` en tu carpeta `input` y luego:
+
+
+``` r
+# Instalar paquete (SOLO UNA VEZ)
+#install.packages("tidyverse")
+
+# Cargar paquete (SIEMPRE)
+library(tidyverse)
+
+
+# Cargar la base
+
+casen &lt;- read.csv("input/casen_ay1.csv") 
+#OJO: esta es la ruta al trabajar con sistema IPO (DENTRO de input)
+```
+
+*Instalar un paquete es traerlo a tu computador, cargar es usarlo*
+---
+
+## Explorar la base
+
+
+``` r
+# ¿Cuántas filas y columnas tiene?
+dim(casen)
+# Observamos que tiene 1000 filas (casos) y 10 columnas (variables)
+
+# ¿Qué variables tiene?
+names(casen)
+
+# Resumen estadístico
+summary(casen)
+```
+
+---
+
+## Primeras preguntas a los datos
+
+
+``` r
+# ¿Cuántas personas por región?
+table(casen$region)
+
+# Distribución por sexo
+table(casen$sexo)
+
+# Condición de pobreza
+table(casen$pobreza)
+
+# Promedio de edad
+mean(casen$edad, na.rm = TRUE)
+
+# Tabla cruzada: pobreza según sexo
+table(casen$sexo, casen$pobreza)
+```
+
+ `na.rm = TRUE` le dice a R que ignore los valores perdidos (NA) al calcular el promedio
+
+---
+
+
+.badge[Ayudantía 01 · FAGOB 2026]
+
+# ¡Nos vemos en la siguiente sesión!
+
+Acuerdos... 
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+  "highlightStyle": "monokai",
+  "highlightLines": true,
+  "countIncrementalSlides": false,
+  "ratio": "16:9",
+  "slideNumberFormat": "%current% / %total%"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
